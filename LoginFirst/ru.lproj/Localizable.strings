@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  LoginFirst
+
+  Created by Vitaly on 07.11.2023.
+  
+*/
+"Error" = "Ошибка";
+"Wrong password or e-mail" = "Неправильный пароль или e-mail";
+"OK" = "OK";
